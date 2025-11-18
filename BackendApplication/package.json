@@ -1,0 +1,21 @@
+{
+  "name": "backendapplication",
+  "version": "1.0.0",
+  "description": "for testing purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --detectOpenHandles",
+    "start": "nodemon MainApp.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "express-validator": "^7.2.1",
+    "jest": "^30.2.0",
+    "mongoose": "^8.19.3",
+    "nodemon": "^3.1.10",
+    "supertest": "^7.1.4"
+  }
+}

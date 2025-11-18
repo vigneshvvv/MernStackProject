@@ -1,0 +1,24 @@
+{
+  "_id": {
+    "$oid": "6916c2506643aee2118d00e5"
+  },
+  "userID": "user123",
+  "userName": "vignesh",
+  "emailId": "vignesh@gmail.com",
+  "products": [
+    {
+      "productID": "product12",
+      "productName": "Laptop",
+      "productPrice": 10000,
+      "quantity": 1,
+      "category": "Electronics"
+    },
+    {
+      "productID": "product22",
+      "productName": "Samsung Mobile",
+      "productPrice": 30000,
+      "quantity": 1,
+      "category": "Electronics"
+    }
+  ]
+}
